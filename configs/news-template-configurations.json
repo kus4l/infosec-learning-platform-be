@@ -1,0 +1,14 @@
+{
+  "hidden-dangers-of-public-wifi": {
+    "file": "article-01.pdf",
+    "format": "pdf"
+  },
+  "hackers-exploit-default-credentials": {
+    "file": "article-02.pdf",
+    "format": "pdf"
+  },
+  "phishing-and-social-engineering": {
+    "file": "article-02.pdf",
+    "format": "pdf"
+  }
+}

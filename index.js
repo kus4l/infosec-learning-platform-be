@@ -143,6 +143,26 @@ app.post("/start-new-course", async (req, res) => {
   }
 });
 
+
+app.get("/get-course-by-id", async (req, res) => { 
+  try {
+    const { courseId } = req.query;
+    const statementKeysPath = `configs/courses.json`;
+    let templateData = fs.readFileSync(statementKeysPath, "utf8");
+
+    templateData = JSON.parse(templateData);
+    const course = templateData.find((course) => course.id == courseId);
+
+    if (!course) {
+      return res.status(404).json({ message: "Course not found" });
+    }
+
+    return res.status(200).json({ message: "Course found", data: course });
+  } catch (error) {
+    return res.status(500).json({ message: "Internal server error" });
+  }
+});
+
 //SERVER
 app.listen(PORT, () => {
   // connectDB();

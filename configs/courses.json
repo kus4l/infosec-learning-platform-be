@@ -16,7 +16,7 @@
       "contactPhone": "555-555-5555"
     },
     "userStatus": {
-      "startDate": "2024-09-24T19:22:55.985Z",
+      "startDate": null,
       "completed": false,
       "prcentageCompleted": 0
     }
@@ -106,7 +106,11 @@
       "contactEmail": "contact@consecteturadipisicing.com",
       "contactPhone": "555-555-5555"
     },
-    "userStatus": { "startDate": null, "completed": false }
+    "userStatus": {
+      "startDate": null,
+      "completed": false,
+      "prcentageCompleted": 0
+    }
   },
   {
     "id": "6",

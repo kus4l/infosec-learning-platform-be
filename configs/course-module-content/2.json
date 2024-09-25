@@ -1,0 +1,58 @@
+{
+    "courseTitle": "Physical Security Policy",
+    "description": "The Physical Security Policy course is essential for anyone responsible for safeguarding organizational assets from physical threats. While cybersecurity often takes the spotlight, physical security remains a critical component of comprehensive security policies. This course focuses on protecting facilities, equipment, and personnel from physical threats such as theft, unauthorized access, and natural disasters. Participants will learn how to develop and implement physical security policies that ensure the safety of both tangible assets and personnel. The course covers various security mechanisms, including surveillance systems, access control, and employee training, alongside emergency response planning.",
+    "keyTopics": [
+      {
+        "title": "Introduction to Physical Security",
+        "content": "An overview of physical security and its importance in protecting organizational assets from physical threats like unauthorized access, theft, or vandalism."
+      },
+      {
+        "title": "Access Control Mechanisms",
+        "content": "Learn about access control systems, including keycards, biometrics, and security personnel, to restrict access to critical areas. Examples include how companies use multi-level access control for sensitive zones like data centers."
+      },
+      {
+        "title": "Surveillance Systems",
+        "content": "Understand the role of surveillance technologies, such as CCTV, motion detectors, and security alarms. The course will showcase how effective video monitoring can prevent incidents before they escalate."
+      },
+      {
+        "title": "Perimeter Security",
+        "content": "Explore strategies for securing a facility’s perimeter, such as fencing, barriers, security lighting, and patrol routes. Examples include using motion-detection lighting to secure outdoor areas at night."
+      },
+      {
+        "title": "Security for High-Risk Areas",
+        "content": "Focus on creating security measures for high-risk areas within a facility, such as server rooms, executive offices, or laboratories. Case studies show how restricted areas are protected using advanced technologies like retinal scanners."
+      },
+      {
+        "title": "Employee Awareness and Training",
+        "content": "Learn the importance of training employees to recognize and respond to security threats. Real-world examples of how employee negligence (like leaving a door open) can lead to security breaches will be discussed."
+      },
+      {
+        "title": "Visitor Management Policies",
+        "content": "Discover how to manage visitors securely using visitor logs, badges, and escort policies. Examples include procedures for handling delivery personnel or contractors."
+      },
+      {
+        "title": "Emergency Preparedness and Response",
+        "content": "Prepare for emergencies, such as natural disasters or fire outbreaks, by learning to implement evacuation plans, emergency exits, and drills. The course provides case studies on how organizations successfully manage crises."
+      },
+      {
+        "title": "Handling Physical Security Incidents",
+        "content": "Learn how to react to security breaches or threats in real-time, including lockdown procedures, contacting authorities, and protecting critical assets."
+      },
+      {
+        "title": "Physical Security Policies for Remote Locations",
+        "content": "Understand the unique challenges of securing remote offices, warehouses, or field operations. Examples show how remote teams can maintain security despite their geographical isolation."
+      },
+      {
+        "title": "Integrating Physical Security with Cybersecurity",
+        "content": "Explore how physical and cybersecurity strategies complement each other. Examples include securing server racks and ensuring physical access is limited only to authorized personnel."
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the fundamental aspects of physical security and their importance.",
+      "Learn to implement access control, surveillance, and perimeter security systems.",
+      "Develop emergency preparedness plans and learn how to manage physical security incidents.",
+      "Gain insight into how physical and cybersecurity strategies work together."
+    ],
+    "audience": "This course is ideal for facility managers, security professionals, IT administrators, and anyone responsible for ensuring the physical safety of organizational resources."
+  }
+  

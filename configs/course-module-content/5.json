@@ -1,0 +1,50 @@
+{
+    "courseTitle": "Phishing Training",
+    "description": "The Phishing Training course is designed to help individuals and organizations identify, prevent, and respond to phishing attacks, which are one of the most common and dangerous cyber threats today. Participants will learn how phishing works, recognize the tactics used by attackers, and understand the potential consequences of falling victim to such schemes. The course covers different types of phishing attacks, including email phishing, spear phishing, smishing, and vishing, and provides practical strategies for avoiding and reporting phishing attempts.",
+    "keyTopics": [
+      {
+        "title": "Introduction to Phishing",
+        "content": "Understand what phishing is, how it works, and why it's a significant threat to both individuals and organizations."
+      },
+      {
+        "title": "Common Phishing Techniques",
+        "content": "Explore the various tactics used by attackers, including deceptive emails, fake websites, social engineering, and impersonation."
+      },
+      {
+        "title": "Recognizing Phishing Emails",
+        "content": "Learn how to identify phishing emails by analyzing common red flags, such as suspicious links, attachments, and urgent requests."
+      },
+      {
+        "title": "Spear Phishing and Whaling",
+        "content": "Understand the more targeted forms of phishing, where attackers customize their messages to trick specific individuals or high-profile targets."
+      },
+      {
+        "title": "Smishing and Vishing",
+        "content": "Discover how attackers use SMS (smishing) and voice calls (vishing) to carry out phishing attacks and how to protect against them."
+      },
+      {
+        "title": "Avoiding Phishing Scams",
+        "content": "Learn practical tips and strategies for avoiding phishing scams, including verifying the sender's identity, checking URLs, and not sharing sensitive information."
+      },
+      {
+        "title": "Phishing Simulations",
+        "content": "Understand how phishing simulations can help organizations train employees to recognize and avoid phishing attacks."
+      },
+      {
+        "title": "Reporting Phishing Attempts",
+        "content": "Learn the importance of reporting phishing attempts and how to report them to your organization’s IT department or appropriate authorities."
+      },
+      {
+        "title": "Case Studies and Real-World Examples",
+        "content": "Analyze real-world phishing attacks and the consequences of falling victim, emphasizing the importance of vigilance and training."
+      }
+    ],
+    "learningOutcomes": [
+      "Recognize and identify common phishing tactics.",
+      "Understand how to avoid falling victim to phishing scams.",
+      "Learn how to report phishing attempts effectively.",
+      "Gain awareness of different phishing attack vectors, such as email, SMS, and voice calls."
+    ],
+    "audience": "This course is ideal for employees, IT professionals, managers, and anyone who uses email, SMS, or other communication channels susceptible to phishing attacks."
+  }
+  

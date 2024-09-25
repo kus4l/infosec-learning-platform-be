@@ -1,5 +1,59 @@
 {
-  "id": "1",
-  "courseContent": "",
-  "vedioUrl": "https://www.example.com/video.mp4"
-}
+    "courseTitle": "Password Policy",
+    "videoUrl": "https://www.example.com/video.mp4",
+    "description": "In today’s digital world, passwords serve as the first line of defense in protecting sensitive information and accessing personal and professional accounts. The Password Policy course is designed to educate users, system administrators, and security professionals on the importance of establishing and maintaining strong password practices to ensure security in both personal and organizational environments. Throughout this course, participants will learn about various components of a robust password policy, including password length, complexity, expiration, and best practices for storage and management. The course covers both traditional passwords and modern password alternatives such as passphrases, multi-factor authentication (MFA), and password managers.",
+    "keyTopics": [
+      {
+        "title": "Introduction to Password Security",
+        "content": "Understand why passwords matter and how weak or compromised passwords lead to security breaches."
+      },
+      {
+        "title": "Password Strength & Complexity",
+        "content": "Learn about the factors that make a password strong, such as length, use of upper and lowercase letters, numbers, and special characters. Real-world examples of weak vs. strong passwords will be shown."
+      },
+      {
+        "title": "Password Length Recommendations",
+        "content": "Understand why password length is more important than complexity in today’s security landscape. Using a password of 12 characters or more can significantly increase security against brute-force attacks."
+      },
+      {
+        "title": "Password Expiration and Rotation",
+        "content": "Discover the pros and cons of forcing users to change their passwords frequently, and when it’s appropriate to implement such policies."
+      },
+      {
+        "title": "Avoiding Common Password Pitfalls",
+        "content": "This section provides tips on avoiding easily guessed or dictionary-based passwords, such as '123456' or 'password.'"
+      },
+      {
+        "title": "The Role of Passphrases",
+        "content": "Instead of complex and hard-to-remember passwords, passphrases can be more secure and user-friendly. Examples include sentences like 'correcthorsebatterystaple.'"
+      },
+      {
+        "title": "Multi-Factor Authentication (MFA)",
+        "content": "Learn how MFA strengthens password security by requiring additional authentication factors, such as a one-time code sent to a mobile device."
+      },
+      {
+        "title": "Password Managers",
+        "content": "Explore how password managers can simplify password storage and help users generate and store complex passwords for multiple accounts."
+      },
+      {
+        "title": "Password Policies for Organizations",
+        "content": "How organizations can create, enforce, and maintain strong password policies for employees, customers, and administrators."
+      },
+      {
+        "title": "Handling Compromised Passwords",
+        "content": "Learn the steps to take when passwords are suspected or confirmed to be compromised, including notifications and password resets."
+      },
+      {
+        "title": "Case Studies and Real-World Examples",
+        "content": "Review security breaches caused by weak password policies, such as the LinkedIn or Yahoo hacks, to highlight the importance of strong password management."
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the key components of a strong password policy.",
+      "Be able to create and enforce effective password policies within organizations.",
+      "Familiarize yourself with tools such as password managers and MFA to enhance security.",
+      "Learn to identify and mitigate risks associated with weak passwords."
+    ],
+    "audience": "This course is ideal for IT professionals, security administrators, system architects, business leaders, and anyone responsible for protecting data and enforcing security policies within an organization."
+  }
+  
